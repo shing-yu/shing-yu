@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoshi Sumi ~</h1>
 <h3 align="center">A high school student from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shing-yu&label=Profile%20views&color=22b3dd&style=flat" alt="shing-yu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shing-yu" alt="shing-yu" /></a> </p>
 
 - 🔭 I’m currently working on [Starline Remake](https://github.com/shing-yu/starline-remake-public)
@@ -29,7 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shing-yu&show_icons=true&locale=en&layout=compact&hide=html,go,javascript" alt="shing-yu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shing-yu&show_icons=true&locale=en" alt="shing-yu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shing-yu&show_icons=true&locale=en&hide=contribs" alt="shing-yu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shing-yu&" alt="shing-yu" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shing-yu&label=Profile%20views&color=22b3dd&style=flat" alt="shing-yu" /> </p>
 
