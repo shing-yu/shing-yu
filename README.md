@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Starline Remake](https://github.com/shing-yu/starline-remake-public)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Dart/Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shing-yu?tab=repositories](https://github.com/shing-yu?tab=repositories)
 
